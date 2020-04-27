@@ -7,7 +7,7 @@ We live in a world where everything we do is being watched by someone or the oth
 ## Parts/Components
 
 1. A camera that shows your face.
-2. Emotion Detection (S)
+2. Emotion Detection 
 3. Coded Interactive p5.js file.
 
 ## Deconstruction
@@ -23,5 +23,8 @@ We live in a world where everything we do is being watched by someone or the oth
 
 I wanted to give this a physical form where I'd project this programme on a white mask. However, due to coronavirus I was not able to to achieve that. If given the time and better circumstances, I'd like to do that.
 
+## Other Credits
+1. https://learn.ml5js.org/docs/#/
+2. Google's data base for the mosaics.
 
 
