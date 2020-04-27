@@ -16,7 +16,7 @@ We live in a world where everything we do is being watched by someone or the oth
 | :---         |           :--- |        ---: |    ---: |
 |Front camera image of the person |Faces Mosaics    | AngleBetween increases or decreases with changing front camera image | |
 |Images of Mosaic Faces   |   |"Sad" "Happy" displayed in console  |Happy or Sad Faces start appearing based on the emotional state of the person|
-|AngleBetween displaying person’s emotional state (smiling or frowning)  |        |     |      |
+|AngleBetween displaying person’s emotional state (smiling or frowning)  |        |Images displayed     |      |
 
 
 ## What next?
