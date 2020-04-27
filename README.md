@@ -25,6 +25,7 @@ We live in a world where everything we do is being watched by someone or the oth
 
 ## Code
 
+```
 let faceapi;
 let video;
 let detections;
@@ -221,7 +222,7 @@ function drawArrow(base, vec, myColor) {
   pop();
 }
 
-
+```
 
 ## What next?
 
