@@ -14,8 +14,8 @@ We live in a world where everything we do is being watched by someone or the oth
 
 | DATA         | RENDER       | STIMULATION | EVENTS.     | 
 | :---         |           :--- |        ---: |    ---: |
-|Front camera image of the person | Mosaic of Happy Face   | Moving Shapes | |
-|   |   | Mosaic of Sad Face   | Happy or Sad Faces start appearing based on the emotional state of the person|
+|Front camera image of the person |    |  | |
+|   |   | Mosaic of Sad/Happy Face   | Happy or Sad Faces start appearing based on the emotional state of the person|
 | A person’s emotional state (smiling or frowning)  |        |     |      |
 
 
