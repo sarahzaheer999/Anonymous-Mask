@@ -14,9 +14,9 @@ We live in a world where everything we do is being watched by someone or the oth
 
 | DATA         | RENDER       | STIMULATION | EVENTS.     | 
 | :---         |           :--- |        ---: |    ---: |
-|Front camera image of the person |Faces Mosaics    | |AngleBetween increases or decreases with changing front camera image  |
+|Front camera image of the person |Faces Mosaics    | |"Sad" "Happy" displayed in console   |
 |Images of Mosaic Faces   |   | |Happy or Sad Faces start appearing based on the emotional state of the person|
-|AngleBetween displaying person’s emotional state (smiling or frowning)  |        |    | "Sad" "Happy" displayed in console      |
+|AngleBetween displaying person’s emotional state (smiling or frowning)  |        |    | AngleBetween increases or decreases with changing front camera image     |
 
 
 ## What next?
