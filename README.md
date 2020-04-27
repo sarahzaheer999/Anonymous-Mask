@@ -7,6 +7,10 @@ We live in a world where everything we do is being watched by someone or the oth
 
 ## Video
 
+https://youtu.be/PcPYYtYtsD0
+
+[![VIDEO HERE](video.png)](https://youtu.be/PcPYYtYtsD0)
+
 
 ## Parts/Components
 
