@@ -1,4 +1,4 @@
-# Anonymous-Mask
+# Anonymous Mask: Final Project for CSP
 
 ## Summary
 
